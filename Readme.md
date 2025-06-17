@@ -29,5 +29,5 @@ A complete project to extract, transform, and visualize sales data from Oracle u
 4. (Optional) Replicate data to Snowflake
 
 ## 📷 Dashboard Preview
-./SaleDashBoard.png
+[./SaleDashBoard.png](https://github.com/wrnglrsh/oracle-sales-dashboard/blob/main/SaleDashBoard.png)
 
